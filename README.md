@@ -1,4 +1,4 @@
-# netwhat
+# Netwhat
 
 ## Introduction
 Netwhat will allow you to discover the network and to learn about its inner workings. This will allow you to understand how some things work that you already use in your everyday life.
