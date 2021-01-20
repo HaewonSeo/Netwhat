@@ -23,4 +23,10 @@ Netwhat will allow you to discover the network and to learn about its inner work
 - [x]  What is a port from an IP point of view and what is it used for when connectingto another device
 
 ## Reference
-[IP Calculator][http://jodies.de/ipcalc]
+[Subnet mask reference table](https://www.cloudaccess.net/cloud-control-panel-ccp/157-dns-management/322-subnet-masks-reference-table.html)
+[IP Calculator](http://jodies.de/ipcalc)
+[netwhat42-train](https://github.com/adblanc/netwhat42-train)
+
+
+## Netwhat Note
+[Notion](https://www.notion.so/Netwhat-b13afd97bdf54f39b274f386c6241b1e)
